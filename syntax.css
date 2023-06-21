@@ -1,0 +1,32 @@
+h1{
+    color: rgb(189, 51, 216);
+    text-align: center;
+
+}
+
+.img{
+border: 7px dashed rgba(113, 240, 176, 0.831) ;
+border-radius: 10px;
+}
+.img2{
+    border: 7px dashed rgba(240, 113, 212, 0.831) ;
+    border-radius: 30px;
+    }
+.img3{
+        border: 10px dashed rgba(113, 240, 176, 0.831) ;
+        color: rgb(46, 189, 217);
+        text-align: center;
+}
+        
+/* #box1{
+    border: 7px dashed rgba(113, 240, 176, 0.831) ;
+    border-radius: 30px;
+    color: blue;px
+    font-size: 50;
+    text-align: center;
+    width :50pt;
+} */
+
+.box2{
+    color: rgb(36, 54, 192);
+}
